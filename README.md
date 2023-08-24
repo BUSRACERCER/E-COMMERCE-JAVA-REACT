@@ -11,8 +11,7 @@ cannot be included and within its limits
 can use the application.
 TECHNOLOGIES USED: Java 8, Spring Boot,
 Maven, Spring JPA, Spring RestAPI, Mysql, Validation,
-Spring Security, ReactJS
-</p>
+Spring Security, ReactJS </p>
 
 # Software Versions:
 - Java 8
