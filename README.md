@@ -45,12 +45,12 @@ Spring Security, ReactJS </p>
 
 <p>
 <a>
-    <img src="FOTO/1.png" style="max-width:100%;"> 
+    <img src="FOTO/A.png" style="max-width:100%;"> 
 </a>
     <a >
-    <img src="FOTO/2.png" style="max-width:100%;"> 
+    <img src="FOTO/B.png" style="max-width:100%;"> 
 </a>
        <a>
-    <img src="FOTO/3.png" style="max-width:100%;"> 
+    <img src="FOTO/C.png" style="max-width:100%;"> 
 </a>
 </p>
