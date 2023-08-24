@@ -41,7 +41,6 @@ Spring Security, ReactJS </p>
 - Run the project http://localhost:3002 in your browser.
 
 # Project Display Image
-  <img src="FOTO/REGISTER.png" style="max-width:100%;"> 
 
 <p>
 <a>
