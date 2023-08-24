@@ -44,7 +44,7 @@ Spring Security, ReactJS </p>
 
 <p>
 <a>
-    <img src="FOTO/REGISTER.png" style="max-width:100%;"> 
+    <img src="FOTO/REGISTER.png." style="max-width:100%;"> 
 </a>
     <a >
     <img src="FOTO/LOGIN.png" style="max-width:100%;"> 
