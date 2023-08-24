@@ -39,7 +39,7 @@ Spring Security, ReactJS </p>
 - Download this repository to your local machine.
 - Import java_se_final.sql from the files for the MySQL database.
 - Start backend and frontend project.
-- Run the project http://localhost:3001 in your browser.
+- Run the project http://localhost:3002 in your browser.
 
 # Project Display Image
 
