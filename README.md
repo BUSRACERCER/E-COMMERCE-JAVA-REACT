@@ -37,7 +37,6 @@ Spring Security, ReactJS </p>
 
 # How to run this project :
 - Download this repository to your local machine.
-- Import java_se_final.sql from the files for the MySQL database.
 - Start backend and frontend project.
 - Run the project http://localhost:3002 in your browser.
 
@@ -45,12 +44,12 @@ Spring Security, ReactJS </p>
 
 <p>
 <a>
-    <img src="FOTO/A.png" style="max-width:100%;"> 
+    <img src="FOTO/REGISTER.png" style="max-width:100%;"> 
 </a>
     <a >
-    <img src="FOTO/B.png" style="max-width:100%;"> 
+    <img src="FOTO/LOGIN.png" style="max-width:100%;"> 
 </a>
        <a>
-    <img src="FOTO/C.png" style="max-width:100%;"> 
+    <img src="FOTO/NAVBAR.png" style="max-width:100%;"> 
 </a>
 </p>
