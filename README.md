@@ -45,7 +45,7 @@ Spring Security, ReactJS </p>
 
 <p>
 <a>
-    <img src="FOTO/1.png" style="max-width:100%;"> 
+    <img src="FOTO /1.png" style="max-width:100%;"> 
 </a>
     <a >
     <img src="FOTO/2.png" style="max-width:100%;"> 
