@@ -44,13 +44,14 @@ Spring Security, ReactJS </p>
 # Project Display Image
 
 <p>
+  
 <a>
-    <img src="FOTO/A.png" style="max-width:100%;"> 
+    <img src="FOTO/REGISTER.png" style="max-width:100%;"> 
 </a>
     <a >
-    <img src="FOTO/B.png" style="max-width:100%;"> 
+    <img src="FOTO/LOGIN.png" style="max-width:100%;"> 
 </a>
        <a>
-    <img src="FOTO/C.png" style="max-width:100%;"> 
+    <img src="FOTO/NAVBAR.png" style="max-width:100%;"> 
 </a>
 </p>
